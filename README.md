@@ -1,12 +1,81 @@
-# React + Vite
+# React Fundamentals Part 6
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my sixth React learning project built with React and Vite. The project focuses on strengthening my understanding of React fundamentals, state management, hooks, and component-based development.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Functional Components
+- JSX Syntax
+- Props and State Management
+- React Hooks
+- Event Handling
+- Reusable Components
+- Modular Project Structure
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+## Installation
+
+Clone this repository:
+
+```bash
+git clone https://github.com/Amay135/react-fundamentals-part-6.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd react-fundamentals-part-6
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Open your browser and visit:
+
+```text
+http://localhost:5173
+```
+
+## Project Structure
+
+```text
+react-fundamentals-part-6/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## Learning Objectives
+
+- Understand React's component-based architecture.
+- Practice managing state and props.
+- Learn and apply React Hooks.
+- Build reusable and maintainable UI components.
+- Improve frontend development skills using React and Vite.
+
+## Author
+
+Amay
+
+GitHub: https://github.com/Amay135
